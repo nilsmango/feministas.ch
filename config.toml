@@ -1,0 +1,40 @@
+# The URL the site will be built for
+base_url = "https://feministas.ch"
+title = "feministas"
+description = "Das T-Shirt für Feminist*innen"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# When set to "true", a feed is automatically generated.
+generate_feed = true
+
+# The taxonomies to be rendered for the site and their configuration of the default languages
+taxonomies = [
+   { name = "Tags", feed = true },
+   { name = "Kategorien", feed = true },
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+
+[extra]
+# List of Papaya navigational menu items. Used to construct the navigation bar. See the README for item schema.
+menu_items = [
+    #{ name = "Home", url = "/" },
+    #{ name = "Info", url = "/info" }
+]
+
+# Footer Navigation Items
+footer_nav = [
+    { name = "Info", url = "/info", newtab = false },
+    { name = "Kontakt", url = "/kontakt", newtab = false },
+    { name = "Datenschutz & Impressum", url = "/impressum", newtab = false },
+
+]
