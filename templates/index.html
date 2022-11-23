@@ -3,9 +3,24 @@
 {% block content %}
 
 <div class="salething">
-<img srcset="/feminista t-shirt 4.png 300w, /feminista t-shirt 3.png 500w, /feminista t-shirt 2.png 1000w, /feminista t-shirt.png 2000w" src="/feminista t-shirt 2.png" alt="Frau die ein feminista T-Shirt trägt" class="t-shirt">
+  <div class="slider-container">
+    <div class="slider slider--proportional slider--proportional-1x1">
+    	<div class="slider__inner">
+    		<input checked type="radio" name="slider__radiobox" id="slider__radiobox--1" class="slider__radiobox slider__radiobox--1"><label for="slider__radiobox--1" class="slider__radiobox-label slider__radiobox-label--item slider__radiobox-label--item-1"></label><label for="slider__radiobox--4" class="slider__radiobox-label slider__radiobox-label--prev slider__radiobox-label--prev-4"></label><label for="slider__radiobox--2" class="slider__radiobox-label slider__radiobox-label--next slider__radiobox-label--next-2"></label>
+    		<input         type="radio" name="slider__radiobox" id="slider__radiobox--2" class="slider__radiobox slider__radiobox--2"><label for="slider__radiobox--2" class="slider__radiobox-label slider__radiobox-label--item slider__radiobox-label--item-2"></label><label for="slider__radiobox--1" class="slider__radiobox-label slider__radiobox-label--prev slider__radiobox-label--prev-1"></label><label for="slider__radiobox--3" class="slider__radiobox-label slider__radiobox-label--next slider__radiobox-label--next-3"></label>
+    		<input         type="radio" name="slider__radiobox" id="slider__radiobox--3" class="slider__radiobox slider__radiobox--3"><label for="slider__radiobox--3" class="slider__radiobox-label slider__radiobox-label--item slider__radiobox-label--item-3"></label><label for="slider__radiobox--2" class="slider__radiobox-label slider__radiobox-label--prev slider__radiobox-label--prev-2"></label><label for="slider__radiobox--4" class="slider__radiobox-label slider__radiobox-label--next slider__radiobox-label--next-4"></label>
+    		<input         type="radio" name="slider__radiobox" id="slider__radiobox--4" class="slider__radiobox slider__radiobox--4"><label for="slider__radiobox--4" class="slider__radiobox-label slider__radiobox-label--item slider__radiobox-label--item-4"></label><label for="slider__radiobox--3" class="slider__radiobox-label slider__radiobox-label--prev slider__radiobox-label--prev-3"></label><label for="slider__radiobox--1" class="slider__radiobox-label slider__radiobox-label--next slider__radiobox-label--next-1"></label>
+    		<div class="slider__slides">
+    			<div class="slider__slide slider__slide--1"><img srcset="/feminista t-shirt 4.png 300w, /feminista t-shirt 3.png 500w, /feminista t-shirt 2.png 1000w, /feminista t-shirt.png 2000w" src="/feminista t-shirt 2.png" alt="Frau die ein feminista T-Shirt trägt" class="t-shirt"></div>
+    			<div class="slider__slide slider__slide--2"><img srcset="/feminista detail 4.png 300w, /feminista detail 3.png 500w, /feminista detail 2.png 1000w, /feminista detail.png 2000w" src="/feminista detail 2.png" alt="Detail Schriftzug feminista T-Shirt" class="t-shirt"></div>
+    			<div class="slider__slide slider__slide--3"><img srcset="/feminista 4.png 300w, /feminista 3.png 500w, /feminista 2.png 1000w, /feminista.png 2000w" src="/feminista 2.png" alt="Weisses T-Shirt mit rotem feminista Logo bestickt" class="t-shirt"></div>
+    			<div class="slider__slide slider__slide--4"><img srcset="/feministas t-shirt 4.png 300w, /feministas t-shirt 3.png 500w, /feministas t-shirt 2.png 1000w, /feministas t-shirt.png 2000w" src="/feministas t-shirt 2.png" alt="Frau die ein T-Shirt mit Schriftzug feminista trägt" class="t-shirt"></div>
+    		</div>
+    	</div>
+  </div>
+</div>
 <div class="verkauf">
-  <p>Preis CHF 35.- inklusive Versand<br>
+  <p>Preis CHF 35.- inklusiv Versand<br>
     Mehr <a href="/info">Infos</a> oder <a href="#grössen">Grössentabelle</a><br>
     Das feminista T-Shirt 0.1 jetzt bestellen!</p>
     <p class="center-align"><a href="#" class="customButton" target="_blank">S</a>
@@ -22,5 +37,9 @@
 
 <h2>Infos</h2>
 <p>Vielleicht hier die Info grad, dann brauchst du nur eine Seite, quasi ohne andere Sachen, weil viel Text ist es ja eh nicht.</p>
+
+
+
+
 
 {% endblock content %}
