@@ -33,8 +33,7 @@ menu_items = [
 
 # Footer Navigation Items
 footer_nav = [
-    { name = "Info", url = "/info", newtab = false },
-    { name = "Kontakt", url = "/kontakt", newtab = false },
-    { name = "Datenschutz & Impressum", url = "/impressum", newtab = false },
+    { name = "Kontakt / Impressum", url = "/kontakt", newtab = false },
+    { name = "AGB & Datenschutz", url = "/agb", newtab = false },
 
 ]

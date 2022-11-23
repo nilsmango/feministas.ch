@@ -261,34 +261,21 @@ blockquote {
   font-size: $font-size-smaller;
 }
 
-.eliminating {
-  font-size: 3.5rem;
-  line-height: 3.5rem;
-  //font-family: monospace, monospace;
-}
 
 h1 {
+line-height: 1.6rem;
   //font-weight: normal;
-  font-size: 3.5rem;
-  line-height: 3.5rem;
-  margin-bottom: 0px;
+  //font-size: 3.5rem;
+
   //font-family: monospace, monospace;
 }
 
 h2 {
-  //font-weight: normal;
-  font-size: 3rem;
-  line-height: 3rem;
-  margin-bottom: 0px;
-  //font-family: monospace, monospace;
+line-height: 1.6rem;
 }
 
 h3 {
-  //font-weight: normal;
-  font-size: 2rem;
-  line-height: 2rem;
-  margin-bottom: 0px;
-  //font-family: monospace, monospace;
+line-height: 1.6rem;
 }
 
 figure {
@@ -367,12 +354,13 @@ hr {
 
 .customButton {
   border-radius:15px;
-  padding:4px 10px;
+  padding: 4px 10px;
   background-color:var(--color-link);
   //opacity:1;
   transition:0.2s;
   color: var(--color-background);
   text-decoration: none;
+  margin-right: 5px;
 }
 .customButton:visited {
   color: var(--color-background);
@@ -420,6 +408,18 @@ hr {
       padding: 0 10px;
   }
   }
+}
+
+
+table {
+  padding-top: 0px;
+  margin: auto;
+}
+
+th, td {
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 30px;
 }
 
 .logo {
@@ -547,13 +547,6 @@ lite-youtube.lyt-activated > .lty-playbtn {
 
 
 
-/** base */
-
-*,
-*::before,
-*::after {
-	box-sizing: border-box;
-}
 
 /** slider */
 
@@ -656,7 +649,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 		transform: translateX(-50%);
 		padding: 6px;
 		border-radius: 50%;
-		background: black;
+		background: var(--color-text);
 		opacity: 0.3;
 		transition: opacity 0.2s;
 
@@ -676,7 +669,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 		top: 50%;
 		transform: translateY(-50%);
 		height: 0;
-		border: 10px solid black;
+		border: 10px solid var(--color-text);
 		border-top-color: transparent;
 		border-bottom-color: transparent;
 		opacity: 0;
@@ -739,11 +732,6 @@ lite-youtube.lyt-activated > .lty-playbtn {
   padding-bottom: 20px;
   }
 
-  .eliminating, h1 {
-    font-size: 5rem;
-    line-height: 5rem;
-  }
-
 
 .nav {
     ul {
@@ -761,7 +749,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-background: #171717;
+    --color-background: #202020;
     --color-text: #d4d4d4;
     --color-text-sec: #a9a9a9;
     --color-code: #333;
