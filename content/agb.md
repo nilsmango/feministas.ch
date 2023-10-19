@@ -3,8 +3,12 @@ title = "AGB & Datenschutz"
 description = "feminstas AGB & Datenschutz"
 date = 2022-11-23
 +++
-- Diese Website benutzt keine Cookies und speichert keine Daten.
-- Beim Klicken auf einen der Buttons um ein feministas T-Shirt zu bestellen wirst du zu Stripe umgeleitet, dort werden deine Daten gespeichert die wir für die Bestellung und den Versand deines T-Shirts benötigen.
+- Diese Website benutzt keine Cookies und speichert keine Daten, ausser die folgenden Notwendigen:
+  - Auf unseren Servern werden Log-Daten erfasst. Zu diesen Daten gehören die IP-Adresse und das Betriebssystem deines Geräts, die Daten, die Zugriffszeit, die Art des Browsers sowie die Browser-Anfrage inklusive der Herkunft der Anfrage (Referrer). Log-Daten inkl. IP-Adressen werden über einen Zeitraum von 6 Monaten aufbewahrt. Die Daten werden intern für forensische Untersuchungen bei Hackangriffen oder für andere sicherheitstechnisch relevanten Analysen verwendet. Dadurch garantieren wir die Sicherheit deiner Daten auf unseren Systemen und stellen sicher, dass in Verdachtsfällen schnell Gegenmassnahmen zur Wahrung deiner Daten ergriffen werden. 
+  - Beim Klicken auf einen der Buttons um ein feministas T-Shirt zu bestellen wirst du zu Stripe umgeleitet, dort werden deine Daten gespeichert die wir für die Bestellung und den Versand deines T-Shirts benötigen. Hier ist die Datenschutzrichtlinie von Stripe: [https://stripe.com/de/privacy](https://stripe.com/de/privacy)
+  - Wenn du uns eine Email sendest werden wir deine Email Adresse speichern, du kannst uns jederzeit [anschreiben](mailto:reden@feministas.ch) um diese zu löschen
+
+
 ## Allgemeine Geschäftsbedingungen von feministas
 
 §1 Geltung gegenüber Unternehmern und Begriffsdefinitionen

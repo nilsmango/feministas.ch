@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>feministas</title>
+    <subtitle>Das T-Shirt für Feminist*innen</subtitle>
+    <link href="https://feministas.ch/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://feministas.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-11-23T00:00:00+00:00</updated>
+    <id>https://feministas.ch/atom.xml</id>
+    <entry xml:lang="en">
+        <title>AGB &amp; Datenschutz</title>
+        <published>2022-11-23T00:00:00+00:00</published>
+        <updated>2022-11-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://feministas.ch/agb/" type="text/html"/>
+        <id>https://feministas.ch/agb/</id>
+        
+        <content type="html">&lt;ul&gt;
+&lt;li&gt;Diese Website benutzt keine Cookies und speichert keine Daten, ausser die folgenden Notwendigen:
+&lt;ul&gt;
+&lt;li&gt;Auf unseren Servern werden Log-Daten erfasst. Zu diesen Daten gehören die IP-Adresse und das Betriebssystem deines Geräts, die Daten, die Zugriffszeit, die Art des Browsers sowie die Browser-Anfrage inklusive der Herkunft der Anfrage (Referrer). Log-Daten inkl. IP-Adressen werden über einen Zeitraum von 6 Monaten aufbewahrt. Die Daten werden intern für forensische Untersuchungen bei Hackangriffen oder für andere sicherheitstechnisch relevanten Analysen verwendet. Dadurch garantieren wir die Sicherheit deiner Daten auf unseren Systemen und stellen sicher, dass in Verdachtsfällen schnell Gegenmassnahmen zur Wahrung deiner Daten ergriffen werden. &lt;&#x2F;li&gt;
+&lt;li&gt;Beim Klicken auf einen der Buttons um ein feministas T-Shirt zu bestellen wirst du zu Stripe umgeleitet, dort werden deine Daten gespeichert die wir für die Bestellung und den Versand deines T-Shirts benötigen. Hier ist die Datenschutzrichtlinie von Stripe: &lt;a href=&quot;https:&#x2F;&#x2F;stripe.com&#x2F;de&#x2F;privacy&quot;&gt;https:&#x2F;&#x2F;stripe.com&#x2F;de&#x2F;privacy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Wenn du uns eine Email sendest werden wir deine Email Adresse speichern, du kannst uns jederzeit &lt;a href=&quot;mailto:reden@feministas.ch&quot;&gt;anschreiben&lt;&#x2F;a&gt; um diese zu löschen&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;allgemeine-geschaftsbedingungen-von-feministas&quot;&gt;Allgemeine Geschäftsbedingungen von feministas&lt;&#x2F;h2&gt;
+&lt;p&gt;§1 Geltung gegenüber Unternehmern und Begriffsdefinitionen&lt;&#x2F;p&gt;
+&lt;p&gt;(1) Die nachfolgenden Allgemeinen Geschäftsbedingungen gelten für alle Lieferungen zwischen uns und einem Verbraucher
+in ihrer zum Zeitpunkt der Bestellung gültigen Fassung.&lt;&#x2F;p&gt;
+&lt;p&gt;Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder
+ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können (§ 13 BGB).&lt;&#x2F;p&gt;
+&lt;p&gt;§2 Zustandekommen eines Vertrages, Speicherung des Vertragstextes&lt;&#x2F;p&gt;
+&lt;p&gt;(1) Die folgenden Regelungen über den Vertragsabschluss gelten für Bestellungen über unseren Internetshop http:&#x2F;&#x2F;feministas.ch.&lt;&#x2F;p&gt;
+&lt;p&gt;(2) Im Falle des Vertragsschlusses kommt der Vertrag mit&lt;&#x2F;p&gt;
+&lt;p&gt;feministas&lt;br &#x2F;&gt;
+Anne Uphoff&lt;br &#x2F;&gt;
+Albert-Anker-Weg 11&lt;br &#x2F;&gt;
+CH-2502 Biel&#x2F;Bienne&lt;br &#x2F;&gt;
+zustande.&lt;&#x2F;p&gt;
+&lt;p&gt;(3) Die Präsentation der Waren in unserem Internetshop stellen kein rechtlich bindendes Vertragsangebot unsererseits dar,
+sondern sind nur eine unverbindliche Aufforderungen an den Verbraucher, Waren zu bestellen. Mit der Bestellung der gewünschten Ware gibt der Verbraucher ein für
+ihn verbindliches Angebot auf Abschluss eines Kaufvertrages ab.&lt;br &#x2F;&gt;
+(4) Bei Eingang einer Bestellung in unserem Internetshop gelten folgende Regelungen:
+Der Verbraucher gibt ein bindendes Vertragsangebot ab, indem er die in unserem Internetshop vorgesehene Bestellprozedur erfolgreich durchläuft.&lt;&#x2F;p&gt;
+&lt;p&gt;Die Bestellung erfolgt in folgenden Schritten:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Auswahl der gewünschten Ware&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Bestätigen durch Anklicken eines der Buttons: S, M, L, XL, 2XL, oder &amp;quot;mehrere Grössen&amp;quot;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Prüfung der Angaben im Warenkorb&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Eingabe der Daten auf Stripe (E-Mail-Adresse, Telefonnummer, Adresse).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Nochmalige Prüfung bzw. Berichtigung der jeweiligen eingegebenen Daten.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Verbindliche Absendung der Bestellung durch Anklicken des Buttons „Zahlen“&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Der Verbraucher kann vor dem verbindlichen Absenden der Bestellung durch Betätigen der in dem von ihm verwendeten Internet-Browser enthaltenen „Zurück“-Taste nach
+Kontrolle seiner Angaben wieder zu der Internetseite gelangen, auf der die Angaben des Kunden erfasst werden und Eingabefehler berichtigen bzw. durch Schließen des
+Internetbrowsers den Bestellvorgang abbrechen.
+Wir bestätigen den Eingang der Bestellung unmittelbar durch eine automatisch generierte E-Mail („Auftragsbestätigung“). Mit dieser nehmen wir Ihr Angebot an.&lt;&#x2F;p&gt;
+&lt;p&gt;(5) Speicherung des Vertragstextes bei Bestellungen über unseren Internetshop : Wir speichern den Vertragstext und senden Ihnen die Bestelldaten und unsere AGB per
+E-Mail zu. Die AGB können Sie jederzeit auch unter http:&#x2F;&#x2F;feministas.ch&#x2F;agb einsehen.&lt;&#x2F;p&gt;
+&lt;p&gt;Ihre vergangenen Bestellungen können Sie in unserem Kunden-Bereich unter Mein Konto –&amp;gt; Meine Bestellungen einsehen.&lt;&#x2F;p&gt;
+&lt;p&gt;§3 Preise, Versandkosten, Zahlung, Fälligkeit&lt;&#x2F;p&gt;
+&lt;p&gt;(1) Die angegebenen Preise enthalten die gesetzliche Umsatzsteuer und sonstige Preisbestandteile. Hinzu kommen etwaige Versandkosten.&lt;&#x2F;p&gt;
+&lt;p&gt;(2) Der Verbraucher hat die Möglichkeit der Zahlung per&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vorkasse (muss per Email bestellt werden),&lt;&#x2F;li&gt;
+&lt;li&gt;Kreditkarte.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;(3) Hat der Verbraucher die Zahlung per Vorkasse gewählt, so verpflichtet er sich, den Kaufpreis unverzüglich nach Vertragsschluss zu zahlen.&lt;&#x2F;p&gt;
+&lt;p&gt;§4 Lieferung&lt;&#x2F;p&gt;
+&lt;p&gt;(1) Sofern wir dies in der Produktbeschreibung nicht deutlich anders angegeben haben, sind alle von uns angebotenen Artikel sofort versandfertig.
+Die Lieferung erfolgt hier spätesten innerhalb von 10 Werktagen.
+Dabei beginnt die Frist für die Lieferung im Falle der Zahlung per Vorkasse am Tag nach
+Zahlungsauftrag an die mit der Überweisung beauftragte Bank und bei allen anderen Zahlungsarten am Tag nach Vertragsschluss zu laufen.
+Fällt das Fristende auf einen Samstag, Sonntag oder gesetzlichen Feiertag am Lieferort, so endet die Frist am nächsten Werktag.&lt;&#x2F;p&gt;
+&lt;p&gt;(2) Die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der
+verkauften Sache geht auch beim Versendungskauf erst mit der Übergabe der Sache an den Käufer auf diesen über.&lt;&#x2F;p&gt;
+&lt;p&gt;§5 Eigentumsvorbehalt&lt;&#x2F;p&gt;
+&lt;p&gt;Wir behalten uns das Eigentum an der Ware bis zur vollständigen Bezahlung des Kaufpreises vor.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;§6 Widerrufsrecht des Kunden als Verbraucher:&lt;&#x2F;p&gt;
+&lt;p&gt;Widerrufsrecht für Verbraucher&lt;&#x2F;p&gt;
+&lt;p&gt;Verbrauchern steht ein Widerrufsrecht nach folgender Maßgabe zu, wobei Verbraucher jede natürliche Person ist, die ein Rechtsgeschäft zu Zwecken abschließt,
+die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können:&lt;&#x2F;p&gt;
+&lt;p&gt;Widerrufsbelehrung&lt;&#x2F;p&gt;
+&lt;p&gt;Widerrufsrecht&lt;&#x2F;p&gt;
+&lt;p&gt;Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.&lt;&#x2F;p&gt;
+&lt;p&gt;Die Widerrufsfrist beträgt vierzehn Tage, ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter,
+der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.&lt;&#x2F;p&gt;
+&lt;p&gt;Um Ihr Widerrufsrecht auszuüben, müssen Sie uns&lt;&#x2F;p&gt;
+&lt;p&gt;feministas&lt;br &#x2F;&gt;
+Anne Uphoff&lt;br &#x2F;&gt;
+Albert-Anker-Weg 11&lt;br &#x2F;&gt;
+CH-2502 Biel&#x2F;Bienne&lt;br &#x2F;&gt;
+E-Mail: reden@feministas.ch&lt;&#x2F;p&gt;
+&lt;p&gt;mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss,
+diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.&lt;&#x2F;p&gt;
+&lt;p&gt;Widerrufsfolgen&lt;&#x2F;p&gt;
+&lt;p&gt;Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der
+Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als
+die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen
+ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist.
+Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben,
+es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.&lt;&#x2F;p&gt;
+&lt;p&gt;Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben,
+dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist.&lt;&#x2F;p&gt;
+&lt;p&gt;Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den
+Widerruf dieses Vertrages unterrichten, an uns zurückzusenden oder zu übergeben. Die Frist ist gewahrt,
+wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden.&lt;&#x2F;p&gt;
+&lt;p&gt;Sie tragen die unmittelbaren Kosten der Rücksendung der Waren.&lt;&#x2F;p&gt;
+&lt;p&gt;Ende der Widerrufsbelehrung&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;§7 Widerrufsformular&lt;&#x2F;p&gt;
+&lt;p&gt;Muster-Widerrufsformular&lt;&#x2F;p&gt;
+&lt;p&gt;(Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)&lt;&#x2F;p&gt;
+&lt;p&gt;An :
+feministas&lt;br &#x2F;&gt;
+Anne Uphoff&lt;br &#x2F;&gt;
+Narzissenweg 11&lt;br &#x2F;&gt;
+CH-2504 Biel&#x2F;Bienne&lt;br &#x2F;&gt;
+E-Mail: reden@feministas.ch&lt;&#x2F;p&gt;
+&lt;p&gt;Hiermit widerrufe(n) ich&#x2F;wir (&lt;em&gt;) den von mir&#x2F;uns (&lt;&#x2F;em&gt;) abgeschlossenen Vertrag über den Kauf der folgenden Waren (&lt;em&gt;)&#x2F;die Erbringung der folgenden Dienstleistung (&lt;&#x2F;em&gt;)_____________________________________________________&lt;&#x2F;p&gt;
+&lt;p&gt;Bestellt am (&lt;em&gt;)&#x2F;erhalten am (&lt;&#x2F;em&gt;)&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Name des&#x2F;der Verbraucher(s)&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Anschrift des&#x2F;der Verbraucher(s)&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Unterschrift des&#x2F;der Verbraucher(s) (nur bei Mitteilung auf Papier)&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Datum&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;(*) Unzutreffendes streichen.&lt;&#x2F;p&gt;
+&lt;p&gt;§8 Gewährleistung&lt;&#x2F;p&gt;
+&lt;p&gt;Es gelten die gesetzlichen Gewährleistungsregelungen.&lt;&#x2F;p&gt;
+&lt;p&gt;§9 Vertragssprache&lt;&#x2F;p&gt;
+&lt;p&gt;Als Vertragssprache steht ausschließlich Deutsch zur Verfügung.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;§10 Kundendienst&lt;&#x2F;p&gt;
+&lt;p&gt;Unser Kundendienst für Fragen, Reklamationen und Beanstandungen steht Ihnen unter&lt;&#x2F;p&gt;
+&lt;p&gt;E-Mail: reden@feministas.ch&lt;&#x2F;p&gt;
+&lt;p&gt;zur Verfügung.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Kontakt</title>
+        <published>2022-11-23T00:00:00+00:00</published>
+        <updated>2022-11-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://feministas.ch/kontakt/" type="text/html"/>
+        <id>https://feministas.ch/kontakt/</id>
+        
+        <content type="html">&lt;p&gt;Anne Uphoff&lt;br &#x2F;&gt;
+Albert-Anker-Weg 11&lt;br &#x2F;&gt;
+2502 Biel&#x2F;Bienne&lt;br &#x2F;&gt;
+&lt;a href=&quot;mailto:reden@feministas.ch&quot;&gt;reden@feministas.ch&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
