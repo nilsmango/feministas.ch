@@ -9,7 +9,7 @@ date = 2022-11-23
 
 §1 Geltung gegenüber Unternehmern und Begriffsdefinitionen
 
-(1) Die nachfolgenden Allgemeinen Geschäftbedingungen gelten für alle Lieferungen zwischen uns und einem Verbraucher
+(1) Die nachfolgenden Allgemeinen Geschäftsbedingungen gelten für alle Lieferungen zwischen uns und einem Verbraucher
 in ihrer zum Zeitpunkt der Bestellung gültigen Fassung.
 
 Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder
@@ -23,8 +23,8 @@ ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet 
 
 feministas  
 Anne Uphoff  
-Narzissenweg 11  
-CH-2504 Biel/Bienne  
+Albert-Anker-Weg 11  
+CH-2502 Biel/Bienne  
 zustande.
 
 (3) Die Präsentation der Waren in unserem Internetshop stellen kein rechtlich bindendes Vertragsangebot unsererseits dar,
@@ -105,8 +105,8 @@ Um Ihr Widerrufsrecht auszuüben, müssen Sie uns
 
 feministas  
 Anne Uphoff  
-Narzissenweg 11  
-CH-2504 Biel/Bienne  
+Albert-Anker-Weg 11  
+CH-2502 Biel/Bienne  
 E-Mail: reden@feministas.ch  
 
 mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss,

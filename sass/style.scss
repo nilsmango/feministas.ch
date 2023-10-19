@@ -157,7 +157,7 @@ kbd {
         text-decoration: underline;
 
       }
-      a .active {
+      a.active {
         font-weight: bold;
         color: var(--color-hover);
       }
@@ -207,7 +207,7 @@ font-size: $font-size-bigger;
         text-decoration: underline;
 
       }
-      a .active {
+      a.active {
         font-weight: bold;
         color: var(--color-hover);
 
@@ -271,11 +271,11 @@ line-height: 1.6rem;
 }
 
 h2 {
-line-height: 1.6rem;
+margin-bottom: -10px;
 }
 
 h3 {
-line-height: 1.6rem;
+margin-bottom: -15px;
 }
 
 figure {
