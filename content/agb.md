@@ -144,16 +144,17 @@ Muster-Widerrufsformular
 
 (Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)
 
-An :
+An:  
 feministas  
 Anne Uphoff  
-Narzissenweg 11  
-CH-2504 Biel/Bienne  
+Albert-Anker-Weg 11  
+CH-2502 Biel/Bienne  
 E-Mail: reden@feministas.ch
 
-Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (*)/die Erbringung der folgenden Dienstleistung (*)_____________________________________________________
+Hiermit widerrufe(n) ich/wir (\*) den von mir/uns (\*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (\*)/die Erbringung der folgenden Dienstleistung (\*)  
+_____________________________________________________
 
-Bestellt am (*)/erhalten am (*)
+Bestellt am (\*)/erhalten am (\*)
 
 __________________
 
@@ -173,7 +174,7 @@ Datum
 
 __________________
 
-(*) Unzutreffendes streichen.
+(\*) Unzutreffendes streichen.
 
 §8 Gewährleistung
 
